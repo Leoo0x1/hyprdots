@@ -3,21 +3,25 @@
 # trash-cli-git                                        # cli to manage trash files
 # libinput-gestures                                    # actions touchpad gestures using libinput
 # gestures                                             # gui for libinput-gestures
+gammastep                                              # for night light
 
 # --------------------------------------------------- // Dependencies
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
 # emote                                                # emoji picker gtk3
+noto-fonts-emoji                                       # display emojis on browser
+noto-fonts-cjk                                         # display asian characters on browser
 
 # --------------------------------------------------- // Gaming
-steam                                                  # gaming platform
-gamemode                                               # daemon and library for game optimisations
-mangohud                                               # system performance overlay
+# steam                                                # gaming platform
+# gamemode                                             # daemon and library for game optimisations
+# mangohud                                             # system performance overlay
 # gamescope                                            # micro-compositor for gaming
 
 # --------------------------------------------------- // Music
-cava                                                   # audio visualizer
+# cava                                                 # audio visualizer
 spotify                                                # proprietary music streaming service
-spicetify-cli                                          # cli to customize spotify client
+# spicetify-cli                                        # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
-# neovim                                               # vim based text editor
+webcord-bin                                            # discord
+
